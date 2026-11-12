@@ -1,0 +1,20 @@
+{
+  "name": "group-assignment-03",
+  "version": "1.0.0",
+  "description": "Group Assignment 03 Backend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.22.3",
+    "sqlite3": "^6.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
